@@ -72,9 +72,11 @@ body {
 	width: 100%;
 }
 
+.carrousel-inner {
+	background-color: lightgray;
+}
 .w-100 {
 	height: 100%;
-	background-color: lightgray;
 }
 #about-me {
 	flex: 2
