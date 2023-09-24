@@ -40,7 +40,7 @@ body {
 
 .social-link img {
 	width:30%;
-	height: auto;
+	height: 100%;
 }
 
 #about {
@@ -70,7 +70,7 @@ body {
 
 .picture img {
 	width: 100%;
-	height: auto;
+	height: 100%;
 
 }
 #about-me {
