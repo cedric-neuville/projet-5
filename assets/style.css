@@ -128,6 +128,11 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+
+.lightboxImage {
+    width: 100%;
+}
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
