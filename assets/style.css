@@ -102,6 +102,9 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
+#gallery .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #000;
+}
 .nav-item>.nav-link {
 	color:black
 }
